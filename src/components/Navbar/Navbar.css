@@ -1,0 +1,14 @@
+.ul{
+    margin-left: 555px;
+    width: 576px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    list-style: none;
+    justify-content: space-between;
+}
+.li{
+    font-size: 15px;
+    line-height: 24px;
+    font-weight: 400;
+}
